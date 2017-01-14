@@ -1,4 +1,25 @@
-# Assignment
+## Lesson 3
+ * Presentations of students website remakes
+ * Repeat topics of last two weeks:
+   * Understand why/ how to use which language
+   * Media-queries
+   * Responsive Websites
+   * DOM
+   * File structure, external links
+ * How to find information on the web
+ * Task: find some info about a certain topic in groups of 2, present to each other
+   * Choose one of the following subjects, look up how it works and implement it in a webpage
+      * CSS transitions
+      * CSS animations with keyframes
+      * SVG
+      * Dropdown menu in CSS
+      * flex-box
+
+## Homework
+
+Build a responsive blog and get ready for javascript.
+
+### Assignment
 
 ## Practice HTML & CSS
 
